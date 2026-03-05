@@ -9,3 +9,5 @@ matplotlib==3.7.2
 seaborn==0.12.2
 androguard==3.4.0
 plotly==5.15.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
