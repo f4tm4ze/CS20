@@ -8,7 +8,6 @@ def format_results(prediction, confidence, model_name):
     if prediction == 1:
         return {
             "status": "malware",
-            "icon": "⚠️",
             "message": "MALWARE DETECTED",
             "color": "#FAC898",
             "text_color": "#A35C5C",
@@ -17,7 +16,6 @@ def format_results(prediction, confidence, model_name):
     else:
         return {
             "status": "safe",
-            "icon": "✅",
             "message": "SAFE",
             "color": "#C1E1C1",
             "text_color": "#2E5C4E",
