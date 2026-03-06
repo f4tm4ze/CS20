@@ -12,12 +12,12 @@ def load_all_models():
     features = None
 
     model_paths = {
-        'Hybrid (XGB+LGBM)': 'models/hybrid_results.pkl',
-        'Random Forest':      'models/baseline_rf_results.pkl',
-        'SVM':                'models/baseline_svm_results.pkl',
-        'XGBoost':            'models/xgb_results.pkl',
-        'LightGBM':           'models/lgbm_results.pkl',
-        'Extra Trees':        'models/et_results.pkl',
+        'Hybrid (XGB+LGBM+ET+RF)': 'models/hybrid_results.pkl',
+        'Random Forest':            'models/baseline_rf_results.pkl',
+        'SVM':                      'models/baseline_svm_results.pkl',
+        'XGBoost':                  'models/xgb_results.pkl',
+        'LightGBM':                 'models/lgbm_results.pkl',
+        'Extra Trees':              'models/et_results.pkl',
     }
 
     for name, path in model_paths.items():
