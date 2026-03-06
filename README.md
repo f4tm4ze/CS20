@@ -1,3 +1,3 @@
 # CS20
 Final project CS20
-<img width="1348" height="631" alt="image" src="https://github.com/user-attachments/assets/13e63aba-d3cf-438c-b3db-2bc4f0a76471" />
+<img width="1347" height="627" alt="image" src="https://github.com/user-attachments/assets/cd46f52f-47a0-4c69-a86c-ac1fb87a7883" />
